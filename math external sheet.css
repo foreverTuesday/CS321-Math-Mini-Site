@@ -1,0 +1,108 @@
+
+body {
+background-color: black;
+background-image: url("math background.jpg");
+background-size: cover;
+background-attachment: fixed;
+color: gray;
+font-family: "Times", Times, serif;
+}
+
+h1 {color: white;
+text-align: center;
+z-index: 9;
+}
+
+
+h2 {color: white;
+text-align: center;
+margin: 0px;
+}
+
+h3 {color: black;
+text-align: left;
+margin: 0px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.namingishard {
+position: relative;
+top: -2px;
+    bottom:0;
+    left:0;
+    right:0;
+float: left;
+background: url("http://i.imgur.com/mJiutge.png");
+border-radius: 15px 15px 0px 15px;
+width: auto;
+overflow: visible;
+margin: 0px;
+}
+
+.pic {
+position: relative;
+top: 0;
+    bottom:0;
+    left:0;
+    right:0;
+width: auto;
+overflow: visible;
+margin: auto;
+text-align: center;
+}
+
+.box{
+position: relative;
+top: 0px;
+    bottom:0;
+    left:0;
+    right:0;
+    height: 20px;
+}
+
+.working{
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+color: black;
+padding: 20px;
+border-radius: 0px 15px 15px 15px;
+}
+
+
+
+.working, .working2 {
+height: auto;
+width: 430px;
+background: url("http://i.imgur.com/mJiutge.png");
+}
+
+
+.title {
+Font-Size: 200%;
+position: relative;
+z-index: 9;
+}
+
+.frontdrop{
+position: relative;
+padding: 10px;
+width: 50%;
+margin-left: auto;
+    margin-right: auto;
+    top: -58px;
+    bottom:0;
+    left:0;
+    right:0;
+    background-color: gray;
+   /* background: url("http://i.imgur.com/mJiutge.png");*/
+    overflow: auto;
+    border-style: solid;
+border-width: 5px;
+border-radius: 15px;
+border-color: silver;
+}
+
+
+
